@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f39641b263ee73041b0e8a9b297a1109
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sunday Hotdog
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10fe18d851d63b04ebfb3c3b5964a275, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
